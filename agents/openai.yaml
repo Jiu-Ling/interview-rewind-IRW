@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Rewind（IRW）"
+  short_description: "面试回放、逐题评价、手撕代码核验与飞书双文档交付"
+  default_prompt: "请使用 $interview-rewind 处理这段面试视频并保存复盘和问题文档。"

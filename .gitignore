@@ -1,0 +1,31 @@
+# Python and uv
+runtime/.venv/
+**/__pycache__/
+*.py[cod]
+.runtime/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Interview artifacts and caches
+output/
+runs/
+models/
+*.log
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.wav
+*.m4a
+*.mp3
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
